@@ -1,18 +1,20 @@
-## Wlisses Almeida
+# Wlisses Almeida
 
+Desenvolvedor em formação.
 
-- 🎓 Software Engineering Student
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
+## Projetos
+- Controle financeiro (em desenvolvimento)
 
+## Contato
+- GitHub: https://github.com/IAmWAlmeida
+- Instagram: https://instagram.com/_.wlisses
 
+---
 
-
-
-
-                                 
-></div>
-##
-<div>
- <a href = "mailto:wlissesdeoliveiraalmeida@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
- </a>
-</div>
+> "Feito > perfeito."
