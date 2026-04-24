@@ -12,7 +12,7 @@ Desenvolvedor em formação.
 - Controle financeiro (em desenvolvimento)
 
 ## Contato
-- GitHub: https://github.com/IAmWAlmeida
+- GitHub: https://github.com/wlalmeida
 - Instagram: https://instagram.com/_.wlisses
 
 ---
