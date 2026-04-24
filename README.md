@@ -9,7 +9,7 @@ Desenvolvedor em formação.
 - Git & GitHub
 
 ## Projetos
-- Controle financeiro (em desenvolvimento)
+- (em desenvolvimento)
 
 ## Contato
 - GitHub: https://github.com/wlalmeida
